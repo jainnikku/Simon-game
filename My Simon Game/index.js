@@ -66,5 +66,5 @@
                 $("body").removeClass("game-over");
             }, 200);
         }
-        console.log("checked1");
+        console.log("checked");
     }
