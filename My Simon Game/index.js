@@ -47,7 +47,7 @@
         arr.push(y);
     }
     function checkarray(){
-        if(check.length===arr.length &&arr[check.length-1]==check[check.length-1] ){
+        if( (check.length===arr.length) && (arr[check.length-1]==check[check.length-1]) ){
             right=true;
             check.length=0;
         }
